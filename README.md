@@ -84,3 +84,9 @@ $ streamlit run first_app2.py
 ```sh
 $ streamlit run first_app3.py
 ```
+
+## Add interactivity with widgets
+
+```sh
+$ streamlit run first_app4.py
+```
