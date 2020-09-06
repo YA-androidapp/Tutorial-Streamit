@@ -78,3 +78,9 @@ $ streamlit run first_app1.py
 ```sh
 $ streamlit run first_app2.py
 ```
+
+## Draw charts and maps
+
+```sh
+$ streamlit run first_app3.py
+```
