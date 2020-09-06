@@ -72,3 +72,9 @@ $ streamlit run first_app.py
 ```sh
 $ streamlit run first_app1.py
 ```
+
+## Use magic
+
+```sh
+$ streamlit run first_app2.py
+```
