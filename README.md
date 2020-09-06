@@ -1,5 +1,11 @@
 # Tutorial-Streamit
 
+https://docs.streamlit.io/en/stable/getting_started.html
+
+---
+
+## Install Streamlit
+
 ```sh
 $ python -m venv myenv
 $ . myenv/bin/activate
@@ -54,3 +60,9 @@ $ streamlit hello
 > Just head over to https://docs.streamlit.io
 >
 > May you create awesome apps!
+
+## Import Streamlit
+
+```sh
+$ streamlit run first_app.py
+```
