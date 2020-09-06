@@ -66,3 +66,9 @@ $ streamlit hello
 ```sh
 $ streamlit run first_app.py
 ```
+
+## Add text and data
+
+```sh
+$ streamlit run first_app1.py
+```
