@@ -1,10 +1,13 @@
 # Tutorial-Streamit
 
-https://docs.streamlit.io/en/stable/getting_started.html
+- [Get started](https://docs.streamlit.io/en/stable/getting_started.html)
+- [Tutorial: Create a data explorer app](https://docs.streamlit.io/en/stable/tutorial/create_a_data_explorer_app.html)
 
 ---
 
-## Install Streamlit
+## [Get started](https://docs.streamlit.io/en/stable/getting_started.html)
+
+### Install Streamlit
 
 ```sh
 $ python -m venv myenv
@@ -61,38 +64,40 @@ $ streamlit hello
 >
 > May you create awesome apps!
 
-## Import Streamlit
+### Import Streamlit
 
 ```sh
 $ streamlit run first_app.py
 ```
 
-## Add text and data
+### Add text and data
 
 ```sh
 $ streamlit run first_app1.py
 ```
 
-## Use magic
+### Use magic
 
 ```sh
 $ streamlit run first_app2.py
 ```
 
-## Draw charts and maps
+### Draw charts and maps
 
 ```sh
 $ streamlit run first_app3.py
 ```
 
-## Add interactivity with widgets
+### Add interactivity with widgets
 
 ```sh
 $ streamlit run first_app4.py
 ```
 
-## Show progress
+### Show progress
 
 ```sh
 $ streamlit run first_app5.py
 ```
+
+## [Tutorial: Create a data explorer app](https://docs.streamlit.io/en/stable/tutorial/create_a_data_explorer_app.html)
