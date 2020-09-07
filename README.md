@@ -101,3 +101,7 @@ $ streamlit run first_app5.py
 ```
 
 ## [Tutorial: Create a data explorer app](https://docs.streamlit.io/en/stable/tutorial/create_a_data_explorer_app.html)
+
+```sh
+$ streamlit run uber_pickups.py
+```
